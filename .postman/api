@@ -1,4 +1,4 @@
-id = d0783a92-3d8a-4a79-9726-8da19ae67d5c
+id = 3e9318e8-7f54-4a1a-a3e1-3741a7f1ae6b
 
 [relations]
 
@@ -6,7 +6,10 @@ id = d0783a92-3d8a-4a79-9726-8da19ae67d5c
 rootDirectory = postman/collections
 files[] = {"id":"591246af-8028-40e8-8340-c532e9caf7f4","path":"Docs 1_56e84207-9939-41c9-b119-83faa7c8ceaa.json","metaData":{}}
 files[] = {"id":"28e358b1-0d2f-496c-851f-dd686522a608","path":"Docs 1_f4a260ed-44bd-499e-9bef-eb46895cd3c9.json","metaData":{}}
-files[] = {"id":"491a55f7-3e36-4f5f-89a2-975e786db560","path":"zdsa.json","metaData":{}}
+files[] = {"id":"cb049ada-d96e-4f62-a447-f59e97bf6b18","path":"New Collection Copy.json","metaData":{}}
+files[] = {"id":"2a085b83-f597-4636-a1e0-ea540a407399","path":"New Collection(1).json","metaData":{}}
+files[] = {"id":"de83341b-8216-47ae-8f19-d885c2b6ac4e","path":"New Collection.json","metaData":{}}
+files[] = {"id":"43b5135b-e4cb-458b-a37b-e8e1c32e2028","path":"New Collectionasdasdasdsadas.json","metaData":{}}
 
 [relations.collections.metaData]
 
